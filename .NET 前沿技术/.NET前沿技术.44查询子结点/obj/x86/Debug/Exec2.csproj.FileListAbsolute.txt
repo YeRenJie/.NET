@@ -1,0 +1,12 @@
+D:\NET\前沿技术\待完成\chapter15\教学演示案例\chapter15\示例2：二叉树查询、修改练习\Exec2\bin\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter15\教学演示案例\chapter15\示例2：二叉树查询、修改练习\Exec2\bin\Debug\Exec2.pdb
+D:\NET\前沿技术\待完成\chapter15\教学演示案例\chapter15\示例2：二叉树查询、修改练习\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter15\教学演示案例\chapter15\示例2：二叉树查询、修改练习\Exec2\obj\x86\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter15\教学演示案例\chapter15\示例2：二叉树查询、修改练习\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter15\教学演示案例\chapter15\chapter15\示例3：查询子结点\Exec2\obj\x86\Debug\Exec2.exe
+D:\NTC\NET\chapter15\教学演示案例\chapter15\chapter15\示例3：查询子结点\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter15\教学演示案例\chapter15\chapter15\示例3：查询子结点\Exec2\bin\Debug\Exec2.exe
+D:\NTC\NET\chapter15\教学演示案例\chapter15\chapter15\示例3：查询子结点\Exec2\bin\Debug\Exec2.pdb
+D:\NTC\NET\chapter15\教学演示案例\chapter15\chapter15\示例3：查询子结点\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter15\补充案例\chapter15\chapter15\示例3：查询子结点\obj\x86\Debug\Exec2.exe
+D:\新建文件夹\NET\chapter15\补充案例\chapter15\chapter15\示例3：查询子结点\obj\x86\Debug\Exec2.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\bin\Debug\LINQBasic.exe
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\bin\Debug\LINQBasic.pdb
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\LINQBasic.MainForm.resources
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\LINQBasic.Properties.Resources.resources
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\LINQBasic.csproj.GenerateResource.Cache
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\LINQBasic.exe
+C:\Documents and Settings\bo.shen\Local Settings\Application Data\Temporary Projects\LINQBasic\obj\Debug\LINQBasic.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\bin\Debug\LINQBasic.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\LINQBasic.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\LINQBasic.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\LINQBasic.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\LINQBasic.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\obj\Debug\LINQBasic.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter2\PPT\课堂案例\LINQBasic\LINQBasic\bin\Debug\LINQBasic.pdb

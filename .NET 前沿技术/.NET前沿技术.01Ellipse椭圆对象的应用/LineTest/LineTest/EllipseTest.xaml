@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="LineTest.EllipseTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas>
+        <Ellipse Canvas.Top="20" Canvas.Left="20" Width="100" Height="100" Stroke="Black"   StrokeThickness ="2">
+            <Ellipse.Fill >
+                <RadialGradientBrush GradientOrigin="0.7,0.3" Center="0.5,0.5" RadiusX="0.5" RadiusY="0.5">
+                    <GradientStop Color="White"  Offset="0.0">
+                    </GradientStop>
+                    <GradientStop Color="DarkGreen" Offset="1.0">
+                    </GradientStop>
+                </RadialGradientBrush> 
+            </Ellipse.Fill>
+        </Ellipse>
+    </Canvas>
+</UserControl>

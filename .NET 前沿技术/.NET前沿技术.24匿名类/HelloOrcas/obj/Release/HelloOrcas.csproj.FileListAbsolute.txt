@@ -1,0 +1,64 @@
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\bin\Release\HelloOrcas.exe
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\bin\Release\HelloOrcas.pdb
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\HelloOrcas.csproj.GenerateResource.Cache
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\HelloOrcas.exe
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Release\HelloOrcas.pdb
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Release\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.6\chapter5\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+F:\NTC\Chapter5—\理论部分\教学幻灯片\课堂案例\HelloOrcas\HelloOrcas\obj\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\bin\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\bin\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例4：带参数的扩展方法\HelloOrcas\obj\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\bin\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\bin\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\NTC\Chapter1\教学演示案例\示例5：var与object的区别\HelloOrcas\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\bin\Release\HelloOrcas.exe
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\bin\Release\HelloOrcas.pdb
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\ResolveAssemblyReference.cache
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\HelloOrcas.MainForm.resources
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\HelloOrcas.Properties.Resources.resources
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\NTC\Chapter1\教学演示案例\示例6：匿名类\HelloOrcas\obj\Release\GenerateResource-ResGen.write.1.tlog

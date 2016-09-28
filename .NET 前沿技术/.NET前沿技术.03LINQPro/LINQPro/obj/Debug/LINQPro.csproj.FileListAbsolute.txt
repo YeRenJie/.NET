@@ -1,0 +1,26 @@
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\12.29\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\bin\Debug\LINQPro.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.4\chapter3\PPT\课堂案例\LINQPro\LINQPro\obj\Debug\LINQPro.pdb
+F:\NTC\Chapter3\教学演示案例\LINQPro\obj\Debug\LINQPro.exe
+F:\NTC\Chapter3\教学演示案例\LINQPro\obj\Debug\LINQPro.pdb

@@ -1,0 +1,14 @@
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例3：二叉排序树查询练习\Exec3\bin\Debug\Exec3.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例3：二叉排序树查询练习\Exec3\bin\Debug\Exec3.pdb
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\Exec3.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\Exec3.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\Exec3.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\Exec3.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例3：二叉排序树查询练习\Exec3\bin\Debug\Exec3.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例3：二叉排序树查询练习\Exec3\bin\Debug\Exec3.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例3：二叉排序树查询练习\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习3：二叉排序树查询\Exec3\obj\x86\Debug\Exec3.exe
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习3：二叉排序树查询\Exec3\obj\x86\Debug\Exec3.pdb
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习3：二叉排序树查询\obj\x86\Debug\Exec3.exe
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习3：二叉排序树查询\obj\x86\Debug\Exec3.pdb

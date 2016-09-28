@@ -1,0 +1,21 @@
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例1：顺序栈入栈案例\Exec\bin\Debug\Exec.exe
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例1：顺序栈入栈案例\Exec\bin\Debug\Exec.pdb
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.exe
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.pdb
+D:\chapter19\教学演示案例\chapter09\chapter09\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.exe
+D:\chapter19\教学演示案例\chapter09\chapter09\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\Exec.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈案例\Exec\bin\Debug\Exec.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈案例\Exec\bin\Debug\Exec.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈案例\Exec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\obj\x86\Debug\Exec.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\obj\x86\Debug\Exec.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\bin\Debug\Exec.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\bin\Debug\Exec.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\obj\x86\Debug\Exec.exe
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例1：顺序栈入栈\Exec\obj\x86\Debug\Exec.pdb
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例1：顺序栈入栈\obj\x86\Debug\Exec.exe
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例1：顺序栈入栈\obj\x86\Debug\Exec.pdb

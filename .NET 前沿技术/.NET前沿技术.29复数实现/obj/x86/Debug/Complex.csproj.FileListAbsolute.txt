@@ -1,0 +1,12 @@
+F:\Chapter06\Complex\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Chapter06\Complex\bin\Debug\Complex.exe
+F:\Chapter06\Complex\bin\Debug\Complex.pdb
+F:\Chapter06\Complex\obj\x86\Debug\Complex.exe
+F:\Chapter06\Complex\obj\x86\Debug\Complex.pdb
+D:\NET\前沿技术\待完成\chapter06\教学演示案例\Chapter06\Chapter06\示例2：复数实现\obj\x86\Debug\Complex.exe
+D:\NET\前沿技术\待完成\chapter06\教学演示案例\Chapter06\Chapter06\示例2：复数实现\obj\x86\Debug\Complex.pdb
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例1：复数实现\obj\x86\Debug\Complex.exe
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例1：复数实现\obj\x86\Debug\Complex.pdb
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例1：复数实现\bin\Debug\Complex.exe
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例1：复数实现\bin\Debug\Complex.pdb
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例1：复数实现\obj\x86\Debug\ResolveAssemblyReference.cache

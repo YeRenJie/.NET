@@ -1,0 +1,12 @@
+F:\chapter10\示例5：实现链队列出队\Exec4\bin\Debug\Exec4.exe
+F:\chapter10\示例5：实现链队列出队\Exec4\bin\Debug\Exec4.pdb
+F:\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\Exec4.exe
+F:\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NET\前沿技术\待完成\chapter10\学员练习参考答案\chapter10\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\Exec4.exe
+D:\NET\前沿技术\待完成\chapter10\学员练习参考答案\chapter10\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NET\前沿技术\待完成\chapter10\学员练习参考答案\chapter10\chapter10\示例5：实现链队列出队\Exec4\bin\Debug\Exec4.exe
+D:\NET\前沿技术\待完成\chapter10\学员练习参考答案\chapter10\chapter10\示例5：实现链队列出队\Exec4\bin\Debug\Exec4.pdb
+D:\NET\前沿技术\待完成\chapter10\学员练习参考答案\chapter10\chapter10\示例5：实现链队列出队\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec4.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec4.pdb

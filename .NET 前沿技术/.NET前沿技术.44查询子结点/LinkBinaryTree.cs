@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Exec1
+{
+    public class LinkBinaryTree<T>
+    {
+        private BinaryNode<T> root;// 头指针
+
+        public LinkBinaryTree()
+        {
+            root = null;
+        }
+
+        public LinkBinaryTree(T item)
+        {
+            root = new BinaryNode<T>(item);
+        }
+
+        public LinkBinaryTree(BinaryNode<T> root)
+        {
+            this.root = root;
+        }
+
+        // 判断为空
+        public bool IsEmpty()
+        {
+            return root == null;
+        }
+
+        // 判断是否是叶子结点
+        public bool IsLeaf(BinaryNode<T> p)
+        {
+            if (p != null && p.Left == null && p.Right == null)
+                return true;
+            else
+                return false;
+        }
+
+        // 插入左子结点
+        public bool InsertLNode(T val, BinaryNode<T> pn)
+        {
+            if (pn == null)
+                throw new Exception("操作失败");
+            BinaryNode<T> temp = new BinaryNode<T>(val);
+            temp.Left = pn.Left;
+            pn.Left = temp;
+            return true;
+        }
+
+        // 插入右子结点
+        public bool InsertRNode(T val, BinaryNode<T> pn)
+        {
+            if (pn == null)
+                throw new Exception("操作失败");
+            BinaryNode<T> temp = new BinaryNode<T>(val);
+            temp.Right = pn.Right;
+            pn.Right = temp;
+            return true;
+        }
+
+        // 返回左子结点
+        public BinaryNode<T> GetLChild(BinaryNode<T> temp)
+        {
+            if (IsEmpty() || temp == null)
+                throw new Exception("操作失败");
+            return temp.Left;
+        }
+
+        // 返回右子结点
+        public BinaryNode<T> GetRChild(BinaryNode<T> temp)
+        {
+            if (IsEmpty() || temp == null)
+                throw new Exception("操作失败");
+            return temp.Right;
+        }
+    }
+
+}

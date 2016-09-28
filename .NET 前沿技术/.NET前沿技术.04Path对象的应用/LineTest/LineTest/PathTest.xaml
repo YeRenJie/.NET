@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="LineTest.PathTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas>
+        <Path  Canvas.Top="20" Canvas.Left="20"  Stroke="Black" StrokeThickness="2" >
+            <Path.Data >
+                <GeometryGroup >
+                    <LineGeometry StartPoint="50,0" EndPoint="50,120"></LineGeometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="10" Center="50,20"></EllipseGeometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="10" Center="50,40"></EllipseGeometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="10" Center="50,60"></EllipseGeometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="10" Center="50,80"></EllipseGeometry>
+                </GeometryGroup>
+            </Path.Data>
+        </Path>
+    </Canvas>
+</UserControl>

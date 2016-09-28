@@ -1,0 +1,12 @@
+D:\NET\前沿技术\待完成\chapter13\教学演示案例\chapter13\示例2：顺序串匹配练习\Exec2\bin\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter13\教学演示案例\chapter13\示例2：顺序串匹配练习\Exec2\bin\Debug\Exec2.pdb
+D:\NET\前沿技术\待完成\chapter13\教学演示案例\chapter13\示例2：顺序串匹配练习\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter13\教学演示案例\chapter13\示例2：顺序串匹配练习\Exec2\obj\x86\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter13\教学演示案例\chapter13\示例2：顺序串匹配练习\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter13\教学演示案例\chapter13\chapter13\示例2：顺序串联接\Exec2\obj\x86\Debug\Exec2.exe
+D:\NTC\NET\chapter13\教学演示案例\chapter13\chapter13\示例2：顺序串联接\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter13\教学演示案例\chapter13\chapter13\示例2：顺序串联接\Exec2\bin\Debug\Exec2.exe
+D:\NTC\NET\chapter13\教学演示案例\chapter13\chapter13\示例2：顺序串联接\Exec2\bin\Debug\Exec2.pdb
+D:\NTC\NET\chapter13\教学演示案例\chapter13\chapter13\示例2：顺序串联接\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter13\补充案例\chapter13\chapter13\示例2：顺序串联接\obj\x86\Debug\Exec2.exe
+D:\新建文件夹\NET\chapter13\补充案例\chapter13\chapter13\示例2：顺序串联接\obj\x86\Debug\Exec2.pdb

@@ -1,0 +1,19 @@
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例4：链栈入栈案例\Exec4\bin\Debug\Exec4.exe
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例4：链栈入栈案例\Exec4\bin\Debug\Exec4.pdb
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.exe
+C:\Documents and Settings\wenting.jiang\桌面\jwt\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.pdb
+D:\chapter19\教学演示案例\chapter09\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.exe
+D:\chapter19\教学演示案例\chapter09\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.pdb
+D:\chapter19\教学演示案例\chapter09\chapter09\示例4：链栈入栈案例\Exec4\bin\Debug\Exec4.exe
+D:\chapter19\教学演示案例\chapter09\chapter09\示例4：链栈入栈案例\Exec4\bin\Debug\Exec4.pdb
+D:\chapter19\教学演示案例\chapter09\chapter09\示例4：链栈入栈案例\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例4：链栈入栈案例\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例3：链栈入栈\Exec4\obj\x86\Debug\Exec4.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例3：链栈入栈\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例3：链栈入栈\Exec4\bin\Debug\Exec4.exe
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例3：链栈入栈\Exec4\bin\Debug\Exec4.pdb
+D:\NTC\NET\chapter10\教学演示案例\chapter10\chapter10\示例3：链栈入栈\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例3：链栈入栈\obj\x86\Debug\Exec4.exe
+D:\新建文件夹\NET\chapter10\补充案例\chapter10\chapter10\示例3：链栈入栈\obj\x86\Debug\Exec4.pdb

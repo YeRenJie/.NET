@@ -1,0 +1,9 @@
+F:\Chapter06\BuyChickenFour\bin\Debug\BuyChickenFour.exe
+F:\Chapter06\BuyChickenFour\bin\Debug\BuyChickenFour.pdb
+F:\Chapter06\BuyChickenFour\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Chapter06\BuyChickenFour\obj\x86\Debug\BuyChickenFour.exe
+F:\Chapter06\BuyChickenFour\obj\x86\Debug\BuyChickenFour.pdb
+D:\NET\前沿技术\待完成\chapter06\教学演示案例\Chapter06\Chapter06\示例3：百钱买百鸡方法4\obj\x86\Debug\BuyChickenFour.exe
+D:\NET\前沿技术\待完成\chapter06\教学演示案例\Chapter06\Chapter06\示例3：百钱买百鸡方法4\obj\x86\Debug\BuyChickenFour.pdb
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例2：百钱买百鸡方法4\obj\x86\Debug\BuyChickenFour.exe
+D:\NTC\NET\chapter06\教学演示案例\Chapter06\Chapter06\示例2：百钱买百鸡方法4\obj\x86\Debug\BuyChickenFour.pdb

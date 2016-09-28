@@ -1,0 +1,14 @@
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例4：二叉排序树删除练习\Exec4\bin\Debug\Exec4.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例4：二叉排序树删除练习\Exec4\bin\Debug\Exec4.pdb
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\Exec4.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\Exec4.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\Exec4.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例4：二叉排序树删除练习\Exec4\bin\Debug\Exec4.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例4：二叉排序树删除练习\Exec4\bin\Debug\Exec4.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例4：二叉排序树删除练习\Exec4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习4：二叉排序树删除\Exec4\obj\x86\Debug\Exec4.exe
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习4：二叉排序树删除\Exec4\obj\x86\Debug\Exec4.pdb
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习4：二叉排序树删除\obj\x86\Debug\Exec4.exe
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习4：二叉排序树删除\obj\x86\Debug\Exec4.pdb

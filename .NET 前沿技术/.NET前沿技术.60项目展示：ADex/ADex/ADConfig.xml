@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ADConfig>
+  <AD Id="0" Image="Image/01.jpg" Title="Flower" Description="第一张"/>
+  <AD Id="1" Image="Image/02.jpg" Title="Beach" Description="第二张"/>
+  <AD Id="2" Image="Image/03.jpg" Title="Flashing" Description="第三张"/>
+  <AD Id="3" Image="Image/04.jpg" Title="Cat" Description="第四张"/>
+  <AD Id="4" Image="Image/05.jpg" Title="Dog" Description="大话西游促销啦!"/>
+</ADConfig>

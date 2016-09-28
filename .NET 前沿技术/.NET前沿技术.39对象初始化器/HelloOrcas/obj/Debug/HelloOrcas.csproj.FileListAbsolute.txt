@@ -1,0 +1,40 @@
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\bin\Debug\HelloOrcas.exe
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\bin\Debug\HelloOrcas.pdb
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\HelloOrcas.MainForm.resources
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\HelloOrcas.Properties.Resources.resources
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\HelloOrcas.csproj.GenerateResource.Cache
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\HelloOrcas.exe
+C:\Documents and Settings\tintin\Local Settings\Application Data\Temporary Projects\HelloOrcas\obj\Debug\HelloOrcas.pdb
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.exe
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.pdb
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\ResolveAssemblyReference.cache
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.MainForm.resources
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.Properties.Resources.resources
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.csproj.GenerateResource.Cache
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.exe
+D:\Shenbo\My Projects\ACCP 5\LINQDemo\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\bin\Debug\HelloOrcas.pdb
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\ResolveAssemblyReference.cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.MainForm.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.Properties.Resources.resources
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.csproj.GenerateResource.Cache
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.exe
+C:\_shenbo\work\ACCP 5.0\前沿技术课\1.2\chapter1\PPT\课堂案例\HelloOrcas\HelloOrcas\obj\Debug\HelloOrcas.pdb

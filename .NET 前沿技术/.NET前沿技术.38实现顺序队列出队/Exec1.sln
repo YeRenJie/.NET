@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec1", "Exec1.csproj", "{559F41F4-1436-4451-86E3-A27365B23CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559F41F4-1436-4451-86E3-A27365B23CC1}.Debug|x86.ActiveCfg = Debug|x86
+		{559F41F4-1436-4451-86E3-A27365B23CC1}.Debug|x86.Build.0 = Debug|x86
+		{559F41F4-1436-4451-86E3-A27365B23CC1}.Release|x86.ActiveCfg = Release|x86
+		{559F41F4-1436-4451-86E3-A27365B23CC1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec3\bin\Debug\Exec.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec3\bin\Debug\Exec.pdb
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec3\obj\x86\Debug\Exec.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec3\obj\x86\Debug\Exec.pdb
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\Exec.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\Exec.pdb
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec\bin\Debug\Exec.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec\bin\Debug\Exec.pdb
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\Exec.exe
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\Exec.pdb
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例1：实现链队列入队\Exec\bin\Debug\Exec.exe
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例1：实现链队列入队\Exec\bin\Debug\Exec.pdb
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例1：实现链队列入队\Exec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter12\补充案例\chapter12\chapter12\示例1：实现链队列入队\obj\x86\Debug\Exec.exe
+D:\新建文件夹\NET\chapter12\补充案例\chapter12\chapter12\示例1：实现链队列入队\obj\x86\Debug\Exec.pdb

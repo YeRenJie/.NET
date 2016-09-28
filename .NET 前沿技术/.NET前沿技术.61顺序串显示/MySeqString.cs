@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Exec1
+{
+    public class MySeqString : IString
+    {
+        private char[] items; // 用字符数组表示串
+        private int count;// 记载串的长度
+
+        public MySeqString()
+            : this(20)
+        {
+        }
+
+        public MySeqString(int maxSize)
+        {
+            if (maxSize < 0)
+                maxSize = 20;
+
+            items = new char[maxSize];
+            count = 0;
+        }
+
+        public MySeqString(char[] str)
+            : this(str.Length * 2)
+        {
+            for (int i = 0; i < str.Length; i++)
+                this.items[i] = str[i];
+            count = str.Length;
+        }
+
+        // 返回串中序号为index的字符
+        public char CharAt(int index)
+        {
+            if (index <= 0 || index > count)
+                throw new IndexOutOfRangeException("索引超出范围");
+
+            return items[index - 1];
+        }
+
+        // 返回当前串与str串连接生成新串
+        public IString Concat(IString str)
+        {
+            return null;
+        }
+
+        // 返回pattern串在主串中的第一次匹配位置
+        public int IndexOf(IString pattern)
+        {
+            return -1;
+        }
+
+        // 返回串的长度
+        public int Length()
+        {
+            return this.count;
+        }
+
+        // 返回串中字符序号从begin开始长度为length的子串
+        public IString Substring(int begin, int length)
+        {
+            return null;
+        }
+
+    }
+
+}

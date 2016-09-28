@@ -1,0 +1,17 @@
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例3：单链表数据查询案例\Exec3\bin\Debug\Exec3.exe
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例3：单链表数据查询案例\Exec3\bin\Debug\Exec3.pdb
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\Exec3.exe
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\Exec3.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\Exec3.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\Exec3.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表数据查询案例\Exec3\bin\Debug\Exec3.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表数据查询案例\Exec3\bin\Debug\Exec3.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表数据查询案例\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\Exec3\obj\x86\Debug\Exec3.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\Exec3\obj\x86\Debug\Exec3.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\Exec3\bin\Debug\Exec3.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\Exec3\bin\Debug\Exec3.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\Exec3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\obj\x86\Debug\Exec3.exe
+D:\新建文件夹\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例4：单链表查询\obj\x86\Debug\Exec3.pdb

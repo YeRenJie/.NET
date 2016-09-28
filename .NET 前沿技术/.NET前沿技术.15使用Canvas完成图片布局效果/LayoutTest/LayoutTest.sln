@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutTest", "LayoutTest\LayoutTest.csproj", "{3B1F8EE6-53B5-4F0F-8140-EE3F81343DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutTest.Web", "LayoutTest.Web\LayoutTest.Web.csproj", "{7BAD1213-10B6-4F0D-BA55-CFDBCFF5BE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1F8EE6-53B5-4F0F-8140-EE3F81343DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1F8EE6-53B5-4F0F-8140-EE3F81343DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1F8EE6-53B5-4F0F-8140-EE3F81343DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1F8EE6-53B5-4F0F-8140-EE3F81343DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAD1213-10B6-4F0D-BA55-CFDBCFF5BE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAD1213-10B6-4F0D-BA55-CFDBCFF5BE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAD1213-10B6-4F0D-BA55-CFDBCFF5BE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAD1213-10B6-4F0D-BA55-CFDBCFF5BE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

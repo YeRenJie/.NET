@@ -1,0 +1,17 @@
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例2：单链表数据删除修改案例\Exec2\bin\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例2：单链表数据删除修改案例\Exec2\bin\Debug\Exec2.pdb
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\Exec2.exe
+D:\NET\前沿技术\待完成\chapter08\教学演示案例\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\Exec2.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例2：单链表数据删除修改案例\Exec2\bin\Debug\Exec2.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例2：单链表数据删除修改案例\Exec2\bin\Debug\Exec2.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例2：单链表数据删除修改案例\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\Exec2\obj\x86\Debug\Exec2.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\Exec2\obj\x86\Debug\Exec2.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\Exec2\bin\Debug\Exec2.exe
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\Exec2\bin\Debug\Exec2.pdb
+D:\NTC\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\Exec2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\obj\x86\Debug\Exec2.exe
+D:\新建文件夹\NET\chapter08\教学演示案例\Chapter08\Chapter08\示例3：单链表修改\obj\x86\Debug\Exec2.pdb

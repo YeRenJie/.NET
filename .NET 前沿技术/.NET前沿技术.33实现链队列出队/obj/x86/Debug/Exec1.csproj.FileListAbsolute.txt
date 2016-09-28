@@ -1,0 +1,17 @@
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\bin\Debug\Exec1.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\bin\Debug\Exec1.pdb
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec1.exe
+D:\NET\前沿技术\待完成\chapter12\教学演示案例\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec1.pdb
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec1.exe
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\Exec1.pdb
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例2：实现链队列出队\Exec1\bin\Debug\Exec1.exe
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例2：实现链队列出队\Exec1\bin\Debug\Exec1.pdb
+D:\NTC\NET\chapter12\教学演示案例\chapter12\chapter12\示例2：实现链队列出队\Exec1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\NET\chapter12\补充案例\chapter12\chapter12\示例2：实现链队列出队\obj\x86\Debug\Exec1.exe
+D:\新建文件夹\NET\chapter12\补充案例\chapter12\chapter12\示例2：实现链队列出队\obj\x86\Debug\Exec1.pdb
+E:\GitHub\C#\Y2\.NET 前沿技术(第6~18章)\NET\chapter12\教学演示案例\chapter12\实现链队列出队\obj\x86\Debug\Exec1.exe
+E:\GitHub\C#\Y2\.NET 前沿技术(第6~18章)\NET\chapter12\教学演示案例\chapter12\实现链队列出队\obj\x86\Debug\Exec1.pdb
+E:\GitHub\C#\Y2\.NET 前沿技术(第6~18章)\NET\chapter12\教学演示案例\chapter12\实现链队列出队\bin\Debug\Exec1.exe
+E:\GitHub\C#\Y2\.NET 前沿技术(第6~18章)\NET\chapter12\教学演示案例\chapter12\实现链队列出队\bin\Debug\Exec1.pdb
+E:\GitHub\C#\Y2\.NET 前沿技术(第6~18章)\NET\chapter12\教学演示案例\chapter12\实现链队列出队\obj\x86\Debug\Exec1.csprojResolveAssemblyReference.cache

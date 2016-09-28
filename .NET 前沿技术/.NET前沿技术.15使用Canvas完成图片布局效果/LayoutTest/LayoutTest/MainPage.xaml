@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="LayoutTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Canvas Background="LightGreen">
+      <Image Width="81" Height="78" Source="image/pic1.JPG" Canvas.Left="50" Canvas.Top="50"></Image>
+      <Image Width="83" Height="78" Source="image/pic2.JPG" Canvas.Left="150" Canvas.Top="150"></Image>
+      <Image Width="83" Height="79" Source="image/pic3.JPG" Canvas.Left="50" Canvas.Top="250"></Image>
+    </Canvas>
+</UserControl>

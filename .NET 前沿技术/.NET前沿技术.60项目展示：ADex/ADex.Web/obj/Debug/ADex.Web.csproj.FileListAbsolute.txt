@@ -1,0 +1,30 @@
+E:\2009-8\JBNS\学生用书\SliverLight\ADex\ADex.Web\bin\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\ADex\ADex.Web\bin\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\JBNS\学生用书\SliverLight\ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\ADex\ADex.Web\obj\Debug\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\复件 ADex\ADex.Web\bin\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\复件 ADex\ADex.Web\bin\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\复件 ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\JBNS\学生用书\SliverLight\复件 ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\复件 ADex\ADex.Web\obj\Debug\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\复件 ADex\ADex.Web\bin\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\复件 ADex\ADex.Web\bin\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\复件 ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\复件 ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\复件 ADex\ADex.Web\obj\Debug\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\ADex\ADex.Web\bin\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\ADex\ADex.Web\bin\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\ADex\ADex.Web\obj\Debug\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\案例\项目参考代码\ADex\ADex.Web\bin\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\案例\项目参考代码\ADex\ADex.Web\bin\ADex.Web.pdb
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\案例\项目参考代码\ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\案例\项目参考代码\ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\2009-8\JBNS\学生用书\SliverLight\SG05\案例\项目参考代码\ADex\ADex.Web\obj\Debug\ADex.Web.pdb
+E:\work\课件开发\ACCP6.0\NTC\Chapter4\理论部分\课堂案例\课程项目展示：ADex\ADex.Web\bin\ADex.Web.dll
+E:\work\课件开发\ACCP6.0\NTC\Chapter4\理论部分\课堂案例\课程项目展示：ADex\ADex.Web\bin\ADex.Web.pdb
+E:\work\课件开发\ACCP6.0\NTC\Chapter4\理论部分\课堂案例\课程项目展示：ADex\ADex.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\NTC\Chapter4\理论部分\课堂案例\课程项目展示：ADex\ADex.Web\obj\Debug\ADex.Web.dll
+E:\work\课件开发\ACCP6.0\NTC\Chapter4\理论部分\课堂案例\课程项目展示：ADex\ADex.Web\obj\Debug\ADex.Web.pdb

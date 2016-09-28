@@ -1,0 +1,15 @@
+D:\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.dll
+D:\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.pdb
+D:\LayoutTest\LayoutTest.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.dll
+D:\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.pdb
+E:\JBNS\开发和维护商用B2C网站(下)\开发\Chapter02\PPTCode\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.dll
+E:\JBNS\开发和维护商用B2C网站(下)\开发\Chapter02\PPTCode\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.pdb
+E:\JBNS\开发和维护商用B2C网站(下)\开发\Chapter02\PPTCode\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\JBNS\开发和维护商用B2C网站(下)\开发\Chapter02\PPTCode\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.dll
+E:\JBNS\开发和维护商用B2C网站(下)\开发\Chapter02\PPTCode\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.pdb
+E:\work\课件开发\ACCP6.0\NTC\Chapter5\教学演示案例\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.dll
+E:\work\课件开发\ACCP6.0\NTC\Chapter5\教学演示案例\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\bin\LayoutTest.Web.pdb
+E:\work\课件开发\ACCP6.0\NTC\Chapter5\教学演示案例\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\NTC\Chapter5\教学演示案例\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.dll
+E:\work\课件开发\ACCP6.0\NTC\Chapter5\教学演示案例\示例1：使用Canvas完成图片布局效果\LayoutTest\LayoutTest.Web\obj\Debug\LayoutTest.Web.pdb

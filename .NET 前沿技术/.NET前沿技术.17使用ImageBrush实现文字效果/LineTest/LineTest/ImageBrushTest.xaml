@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="LineTest.ImageBrushTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas>
+        <TextBlock FontWeight="Bold" FontSize="60" FontFamily="Arial Black" >
+            Hello
+            <TextBlock.Foreground >
+                <ImageBrush ImageSource="image/pic3.JPG"></ImageBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+    </Canvas>
+</UserControl>

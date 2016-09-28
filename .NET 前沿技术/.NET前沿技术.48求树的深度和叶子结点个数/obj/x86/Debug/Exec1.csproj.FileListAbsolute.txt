@@ -1,0 +1,14 @@
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\bin\Debug\Exec1.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\bin\Debug\Exec1.pdb
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\Exec1.exe
+D:\NET\前沿技术\待完成\chapter18\教学演示案例\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\Exec1.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\Exec1.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\Exec1.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\bin\Debug\Exec1.exe
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\bin\Debug\Exec1.pdb
+D:\NTC\NET\chapter18\教学演示案例\chapter18\chapter18\示例1：求树的深度和叶子结点个数练习\Exec1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习1：求树的深度和叶子结点个数\Exec1\obj\x86\Debug\Exec1.exe
+D:\NTC\NET\chapter18\学员练习参考答案\chapter18\chapter18\练习1：求树的深度和叶子结点个数\Exec1\obj\x86\Debug\Exec1.pdb
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习1：求树的深度和叶子结点个数\obj\x86\Debug\Exec1.exe
+D:\新建文件夹\NET\chapter18\补充案例\chapter18\chapter18\练习1：求树的深度和叶子结点个数\obj\x86\Debug\Exec1.pdb
